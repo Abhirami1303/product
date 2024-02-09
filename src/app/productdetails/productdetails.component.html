@@ -1,0 +1,22 @@
+<div class="k">
+    <div class="card mb-3" style="max-width: 800px; height:500px">
+        <div class="row g-0 ">
+          <div class="col-md-4 p-5">
+            <img src="{{data.image}}" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-8 p-5">
+            <div class="card-body">
+              <h3 class="card-title">{{data.title}}</h3>
+              <p class="card-text">{{data.description}}</p>
+              <p class="card-text">
+                {{data.rating.rate}} {{printStars(data.rating.rate)}} {{data.rating.count}} ratings
+              </p>
+              <a href="#" class="btn btn-primary">${{data.price}}</a>
+              
+              <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
+

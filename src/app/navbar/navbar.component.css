@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Miltonian+Tattoo&display=swap');
+
+h1{
+    font-family: 'Miltonian Tattoo', cursive;
+    text-align: center;
+}
+
+.n{
+    justify-content: flex-end;
+}

@@ -1,0 +1,19 @@
+
+.footer-section {
+  background: #e3f2fd;;
+  position: relative;
+  
+} 
+.copyright-area{
+  background: #e3f2fd;;
+  padding: 25px 0;
+} 
+.copyright-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #878787;
+  
+}
+.copyright-text p a{
+  color: #ff5e14;
+} 

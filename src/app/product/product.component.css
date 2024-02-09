@@ -1,0 +1,16 @@
+.M{
+    justify-content: center;
+    display: flex;
+    background-color:rgba(222, 214, 252, 0.246);
+}
+
+.h{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    /* background-color: rgb(246, 215, 174); */
+}
+
+.card{
+    border-radius: 10px;
+    background-color:#f2f7f9;;
+}
